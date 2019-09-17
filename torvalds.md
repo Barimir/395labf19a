@@ -1,7 +1,7 @@
-# Team Name: Torvalds
+## Team Name: Torvalds
 
 # Team Members: 
-	- Sean 
-	- Samuel 
-	- Dakota 
-	- Arnoldo 
+- Sean 
+- Samuel 
+- Dakota 
+- Arnoldo 
